@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Chapter2Exercises.cpp
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\chapter2exercises.cpp(252): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ConverterClass.cpp
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(14): warning C4101: 'binNum': unreferenced local variable
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(75): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(81): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(97): warning C4101: 'binNum': unreferenced local variable
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(287): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\converterclass.cpp(295): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\mjbel\thinklikeaprogrammer\chapter2exercises\chapter2exercises\chapter2exercises.cpp(314): warning C4715: 'makeChoice': not all control paths return a value
+  Chapter2Exercises.vcxproj -> C:\Users\mjbel\ThinkLikeAProgrammer\Chapter2Exercises\Debug\Chapter2Exercises.exe

@@ -1,0 +1,3 @@
+﻿  Chapter7Exercises.cpp
+c:\users\mjbel\source\repos\chapter7exercises\chapter7exercises\chapter7exercises.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chapter7Exercises.vcxproj -> C:\Users\mjbel\source\repos\Chapter7Exercises\Debug\Chapter7Exercises.exe
