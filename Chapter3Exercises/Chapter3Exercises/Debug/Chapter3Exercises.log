@@ -1,3 +1,0 @@
-﻿  Chapter3Exercises.cpp
-c:\users\mjbel\source\repos\chapter3exercises\chapter3exercises\chapter3exercises.cpp(317): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Chapter3Exercises.vcxproj -> C:\Users\mjbel\source\repos\Chapter3Exercises\Debug\Chapter3Exercises.exe
